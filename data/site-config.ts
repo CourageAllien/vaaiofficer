@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "VAOS",
+  name: "VA Engines",
   title: "Your AI Virtual Assistant — Builds Engines. Runs Your Business.",
   description:
     "I build AI engines and agents that run your business — and I keep building them every single month. Start your free 7-day trial.",

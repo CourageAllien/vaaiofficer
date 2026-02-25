@@ -35,7 +35,7 @@ export function Header() {
           </svg>
         </div>
         <span className="font-serif text-lg text-dark tracking-[-0.3px]">
-          VAOS
+          VA Engines
         </span>
       </Link>
 

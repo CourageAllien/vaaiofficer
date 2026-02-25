@@ -57,7 +57,7 @@ export function Hero() {
             <div className="w-2.5 h-2.5 rounded-full bg-[#FDBB2F]" />
             <div className="w-2.5 h-2.5 rounded-full bg-[#2BC840]" />
             <div className="ml-3 bg-white border border-border rounded-md px-3 py-[3px] text-[11px] text-light flex-1 max-w-[280px]">
-              vaos.app/dashboard
+              vaengines.app/dashboard
             </div>
           </div>
 
